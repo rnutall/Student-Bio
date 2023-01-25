@@ -1,3 +1,8 @@
-.header, figure {
-justify content: center;
+header {
+    text-align: center;
+
+} 
+
+figure {
+text-align: center;
 }
